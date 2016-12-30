@@ -72,4 +72,4 @@ deploy:
   type: git
   repo: git@github.com:freebyron/freebyron.github.io.git
   branch: master
-  message: "update posts"
+  message: "update"
