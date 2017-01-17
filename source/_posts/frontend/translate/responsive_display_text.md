@@ -31,7 +31,7 @@ h1 {
 }
 ```
 
-对应下列的宽度，渲染的字体大小为：
+对应下列的宽度，渲染的字体大小为:
 
 <table><caption>Rendered font size (px)</caption>
 <thead><tr><th>Viewport width</th>
@@ -47,16 +47,9 @@ h1 {
 </tr><tr><td>1920</td>
 <td>250</td>
 </tr></tbody></table>
-
 使用这种方式时，文字块级元素会在横竖屏下出现比例不协调的问题。由于字体大小是基于视口的宽度来设置，所以当设备横屏时会比竖屏是大出很多。
-
 <figure><img alt="Portrait device next to landscape device with the same sized text" src="https://media.24ways.org/2016/rutter/viewport-units-vmin.svg"><figcaption>Landscape text is consistent with portrait text when using vmin units.</figcaption></figure>
-
-
-
 比较vm和vmin在众多常用屏幕尺寸下的渲染大小，你可以看出使用vmin可以将字体设置为一个合适的大小。
-
-
 
 <table><caption>Rendered font size (px)</caption>
 <thead style="text-align:right"><tr><th>Viewport</th>
@@ -136,7 +129,6 @@ h2 {
 <figure class="fullwidth"><img alt="Phone next to tablet showing smaller subheading scaled using a hybrid method" src="https://media.24ways.org/2016/rutter/viewport-hybrid-calc.svg"></figure>
 
 为了给你展示使用混合方式的效果，这里是一个混合方式和视口单位一一对应的表格。
-
 <table class="ex--scale"><caption>
 <i>top:</i> calc() hybrid method; <i>bottom</i>: vmin only</caption>
 <tbody><tr class="ex--scale-size"><td style="font-size:0.875rem">16</td>

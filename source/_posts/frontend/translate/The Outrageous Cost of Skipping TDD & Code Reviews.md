@@ -78,14 +78,14 @@ __知识共享__。但我们采用代码审查时，其他开发者使用反模�
 
 更好的掌握TDD并理解它在软件开发工作中的角色：
 
-- [关于TDD和单元测试的5个常见问题](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9)
+[关于TDD和单元测试的5个常见问题](https://medium.com/javascript-scene/5-common-misconceptions-about-tdd-unit-tests-863d5beb3ce9)
 
-- [单元、功能、集成测试对比](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)
+[单元、功能、集成测试对比](https://www.sitepoint.com/javascript-testing-unit-functional-integration/)
 
-- [每个单元测试必问的5个问题](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)
+[每个单元测试必问的5个问题](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d)
 
-- [网络视频:ES6中的TDD和React开发](https://ericelliottjs.com/product/tdd-es6-react/)
+[网络视频:ES6中的TDD和React开发](https://ericelliottjs.com/product/tdd-es6-react/)
 
-- 让你的团队获得我亲自指导，联系我们并告诉我们关于你团队的信息和你们训练的需求
+让你的团队获得我亲自指导，联系我们并告诉我们关于你团队的信息和你们训练的需求
 
 
