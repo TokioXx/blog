@@ -56,8 +56,8 @@ TCP连接需要三次握手，如果协议是HTTPS，则还需要TLS层的四次
 
 ### 参考
 
-- [统一资源定位符]: https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6
+[统一资源定位符]: https://zh.wikipedia.org/wiki/%E7%BB%9F%E4%B8%80%E8%B5%84%E6%BA%90%E5%AE%9A%E4%BD%8D%E7%AC%A6
 
-- [HTTP协议协商]: https://imququ.com/post/protocol-negotiation-in-http2.html
+[HTTP协议协商]: https://imququ.com/post/protocol-negotiation-in-http2.html
 
-- [浏览器的渲染原理简介]: http://coolshell.cn/articles/9666.html
+[浏览器的渲染原理简介]: http://coolshell.cn/articles/9666.html
